@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Perfectly Nineties Bold';
+  src: url('fonts/perfectlynineties-bold.woff') format('woff'),;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Perfectly Nineties Bold';
+  src: url('fonts/perfectlynineties-bolditalic.woff') format('woff'),;
+  font-style: italic;
+}
