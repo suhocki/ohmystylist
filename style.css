@@ -6,16 +6,30 @@ div {
 
     line-height: 1.2;
     letter-spacing: 0em;
-    font-family: 'Perfectly Nineties Bold', sans-serif;
     font-weight: 400;
     font-style: normal;
 }
 
 .home {
+    font-family: 'Perfectly Nineties Bold', sans-serif;
     margin-left: 36px;
     margin-top: 29px;
     display: flex;
 
     letter-spacing: 0em;
     font-size: 39px;
+}
+
+.menu {
+    font-family: 'Montserrat';
+    display: flex;
+    text-transform: uppercase;
+    margin-top: 47px;
+}
+
+.menu div {
+    margin-left: 25px;
+    font-size: 11px;
+    line-height: 13px;
+    letter-spacing: 1.1px;
 }
